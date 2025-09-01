@@ -39,3 +39,5 @@ gracias.
 El usuario por defecto es `admin@admin.com` y la contraseña es `password`
 
 También se debe configurar la base de datos para el Back en el archivo `.env` el motor de base de datos que se uso fue MySQL
+
+AI Orchestrator (2025-09-01T04:26:45.730Z): Issue 64e91419-d9d4-466f-a9ce-420fb9e68d8d
